@@ -45,17 +45,17 @@ body {
   right: 15px;
   width: 35px;
   height: 35px;
-  border-radius: 5px;
+  border-radius: 50%;
   opacity: 0.5;
 }
 
 .close-icon {
   /* estilos del icono "X" */
-  font-size: 18px;
-  font-weight: bold;
+  font-size: 15px;
   color: #fff;
 }
 
 .close-icon:hover {
   color: #0C7C59;
+  font-weight: bold;
 }
